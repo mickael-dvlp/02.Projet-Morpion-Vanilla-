@@ -6,8 +6,6 @@ Jeu de morpion (Tic-Tac-Toe) jouable dans le navigateur, développé en HTML, CS
 
 ## Aperçu
 
-![Morpion](https://img.shields.io/badge/HTML-CSS-JS-blue)
-
 Deux modes de jeu disponibles :
 
 - **Joueur vs Joueur** — deux joueurs s'affrontent sur le même écran
